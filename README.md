@@ -94,7 +94,7 @@ movie-nlp-recommender/
 
 ## 📬 Contact
 
-Shehroz Mir — [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
+Shehroz Mir — [LinkedIn](https://www.linkedin.com/in/shehrozmir/) | [GitHub](https://github.com/Shehroz-Mir)
 
 ---
 
