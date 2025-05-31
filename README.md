@@ -36,7 +36,7 @@ This project performs Natural Language Processing (NLP) on a movie dataset (Rott
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/movie-nlp-recommender.git
+   git clone https://github.com/Shehroz-Mir/movie-nlp-recommender.git
    cd movie-nlp-recommender
    ```
 
