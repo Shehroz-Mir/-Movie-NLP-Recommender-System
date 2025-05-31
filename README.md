@@ -36,7 +36,7 @@ This project performs Natural Language Processing (NLP) on a movie dataset (Rott
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Shehroz-Mir/movie-nlp-recommender.git
+   git clone https://github.com/Shehroz-Mir/23L-8009.git
    cd movie-nlp-recommender
    ```
 
@@ -49,7 +49,7 @@ This project performs Natural Language Processing (NLP) on a movie dataset (Rott
 
 4. Run the notebook:
    ```bash
-   jupyter notebook movie_recommender.ipynb
+   jupyter notebook 23L-8009.ipynb
    ```
 
 ---
@@ -77,7 +77,7 @@ TF-IDF Recommendations:
 ```
 movie-nlp-recommender/
 │
-├── movie_recommender.ipynb       # Jupyter notebook with full pipeline
+├── 23L-8009.ipynb       # Jupyter notebook with full pipeline
 ├── rotten_tomatoes_movies.csv    # Dataset (not uploaded to GitHub)
 ├── README.md                     # Project overview
 └── requirements.txt              # Python libraries used
